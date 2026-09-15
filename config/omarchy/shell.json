@@ -11,7 +11,8 @@
     "layout": {
       "left": [
         {
-          "id": "omarchy.menu"
+          "id": "omarchy-logo",
+          "type": "qml"
         },
         {
           "id": "omarchy.workspaces"
